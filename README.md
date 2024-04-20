@@ -1,6 +1,6 @@
-![final](https://github.com/shivu-cmd/minecraftbedrockpc/assets/69671519/348c3e83-2d73-4896-892b-490db7548782)
-
 # Minecraft Activator
+
+![final](https://github.com/shivu-cmd/minecraftbedrockpc/assets/69671519/348c3e83-2d73-4896-892b-490db7548782)
 
 ![Minecraft User](https://img.shields.io/badge/Version-1.0-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue) ![Downloads](https://img.shields.io/github/downloads/shivu-cmd/minecraftbedrockpc/total)
 
@@ -20,13 +20,7 @@ Minecraft Activator is a powerful and easy-to-use tool that Activate Your Minecr
 
 1. **Download**: Download the latest release Of Minecraft For Windows 11/10 From Microsoft Store Official Website.
 2. **Use Script**: Download the latest release Of script [GitHub Releases page](https://github.com/shivu-cmd/minecraftbedrockpc/releases).
-3. **Run**: Open the application and start customizing your Minecraft experience!
-
-## 🎮 Usage
-
-1. **Launch**: Open Minecraft User and wait for it to initialize.
-2. **Select**: Choose the features you want to customize or enhance.
-3. **Apply**: Click the "Apply" button to save your settings and launch Minecraft!
+3. **Run**: RUN THE SCRIPT AS ADMINISTRATOR OTHERWISE THE SCRIPT WON'T WORK
 
 ## ❓ FAQ
 
@@ -52,8 +46,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📧 Contact
 
-For any questions or support, please [open an issue](https://github.com/shivu-cmd/minecraftbedrockpc/issues) on GitHub OR Join Our Discord Server [Discord Server](https://dsc.gg/shivu)
+For any questions or support, please [open an issue](https://github.com/shivu-cmd/minecraftbedrockpc/issues) on GitHub OR Join Our [Discord Server](https://dsc.gg/shivu)
+
+![Untitled](https://github.com/shivu-cmd/minecraftbedrockpc/assets/69671519/f49b96ea-704c-4ef8-8a3b-52a8aaac731f)
+
+
 
 ---
+## Thank you for using Minecraft Activator Script! We hope you enjoy your Fully Unlocked Minecraft experience!
 
-Thank you for using Minecraft Activator Script! We hope you enjoy your enhanced Minecraft experience!
+![9kFmE2wMZya8kn5NxpZ5ML-1200-80](https://github.com/shivu-cmd/minecraftbedrockpc/assets/69671519/f12cc838-a47c-4b23-a600-6b1b41086423)
+
