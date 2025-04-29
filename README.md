@@ -46,7 +46,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📧 Contact
 
-For any questions or support, please [open an issue](https://github.com/shivu-cmd/minecraftbedrockpc/issues) on GitHub OR Join Our [Discord Server](https://dsc.gg/shivu)
+For any questions or support, please [open an issue](https://github.com/shivu-cmd/minecraftbedrockpc/issues) on GitHub OR Join Our [Discord Server](https://dsc.gg/shivug3)
 
 ![Untitled](https://github.com/shivu-cmd/minecraftbedrockpc/assets/69671519/f49b96ea-704c-4ef8-8a3b-52a8aaac731f)
 
