@@ -4,6 +4,9 @@
 
 ![Minecraft User](https://img.shields.io/badge/Version-1.0-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue) ![Downloads](https://img.shields.io/github/downloads/shivu-cmd/minecraftbedrockpc/total)
 
+## 🚀 HOW TO GET THE SCRIPT?
+SIMPLY JOIN MY DISCORD SERVER THERE I WILL PERSONALY SEND THE SCRIPT & GUIDE YOU HOW TO USE THE SCRIPT
+
 ## 🚀 Description
 
 Minecraft Activator is a powerful and easy-to-use tool that Activate Your Minecraft Bedrock on Windows 11/10 For Free. This Tool Basically Modify Your Mincraft .Dll Files 
