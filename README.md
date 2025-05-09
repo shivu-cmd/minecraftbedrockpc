@@ -6,6 +6,7 @@
 
 ## 🚀 HOW TO GET THE SCRIPT?
 SIMPLY JOIN MY DISCORD SERVER THERE I WILL PERSONALY SEND THE SCRIPT & GUIDE YOU HOW TO USE THE SCRIPT
+[Discord Server](https://dsc.gg/shivug3) [Discord Server](https://dsc.gg/shivug3) [Discord Server](https://dsc.gg/shivug3)
 
 ## 🚀 Description
 
