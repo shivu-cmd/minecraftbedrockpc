@@ -1,6 +1,6 @@
 # Minecraft Activator
 
-![final](https://github.com/shivu-cmd/mcdlls/releases/download/1cv1/yt.jpg)
+![final](https://github.com/shivu-cmd/mcdlls/releases/download/1cv1/github.jpg)
 
 ![Minecraft User](https://img.shields.io/badge/Version-1.0-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue) ![Downloads](https://img.shields.io/github/downloads/shivu-cmd/minecraftbedrockpc/total)
 
