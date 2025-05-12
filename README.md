@@ -22,10 +22,6 @@ Minecraft Activator is a powerful and easy-to-use tool that Activate Your Minecr
 
 ## 💻 Installation
 
-1. **Download**: Download the latest release Of Minecraft For Windows 11/10 From Microsoft Store Official Website.
-2. **Use Script**: Download the latest release Of script [GitHub Releases page](https://github.com/shivu-cmd/minecraftbedrockpc/releases).
-3. **Run**: RUN THE SCRIPT AS ADMINISTRATOR OTHERWISE THE SCRIPT WON'T WORK
-
 ## ❓ FAQ
 
 **Q: Is Minecraft Activator Script safe to use?**
